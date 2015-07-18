@@ -1,3 +1,5 @@
+# Copyright Paul-Johan Seim
+
 #include <stdio.h>
 
 main()
@@ -49,9 +51,7 @@ main()
 	(stop = 1);
 
     }
-    
-
-
+ 
 
 	}
     
@@ -59,22 +59,6 @@ main()
 	printf("Matrix IS a unit matrix \n");
     else	
 	printf("Matrix IS NOT a unit matrix \n");
-
-       
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }
